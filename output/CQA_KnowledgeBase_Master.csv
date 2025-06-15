@@ -1,0 +1,357 @@
+Modality,Phase,CQA,Test Methods,Justification,Regulatory Source,Control Action
+mAb,Phase 1,Identity,"Peptide Mapping, ELISA, Intact Mass, N-terminal Sequencing",Confirm primary structure and identity,ICH Q6B 4.1,Specification
+mAb,Phase 2,Identity,"Peptide Mapping, ELISA, Intact Mass, N-terminal Sequencing",Confirm primary structure and identity,ICH Q6B 4.1,Specification
+mAb,Phase 3,Identity,"Peptide Mapping, ELISA, Intact Mass, N-terminal Sequencing",Confirm primary structure and identity,ICH Q6B 4.1,Specification
+mAb,Commercial,Identity,"Peptide Mapping, ELISA, Intact Mass, N-terminal Sequencing",Confirm primary structure and identity,ICH Q6B 4.1,Specification
+mAb,Phase 1,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis","Detect aggregates, fragments, purity profile",ICH Q6B 4.2,Specification
+mAb,Phase 2,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis","Detect aggregates, fragments, purity profile",ICH Q6B 4.2,Specification
+mAb,Phase 3,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis","Detect aggregates, fragments, purity profile",ICH Q6B 4.2,Specification
+mAb,Commercial,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis","Detect aggregates, fragments, purity profile",ICH Q6B 4.2,Specification
+mAb,Phase 1,Potency,"Binding Assay, Bioassay (ADCC, CDC)",Confirm biological activity,ICH Q6B 4.3,Specification
+mAb,Phase 2,Potency,"Binding Assay, Bioassay (ADCC, CDC)",Confirm biological activity,ICH Q6B 4.3,Specification
+mAb,Phase 3,Potency,"Binding Assay, Bioassay (ADCC, CDC)",Confirm biological activity,ICH Q6B 4.3,Specification
+mAb,Commercial,Potency,"Binding Assay, Bioassay (ADCC, CDC)",Confirm biological activity,ICH Q6B 4.3,Specification
+mAb,Phase 1,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect isoform variation,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 2,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect isoform variation,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 3,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect isoform variation,ICH Q6B 4.2,Specification
+mAb,Commercial,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect isoform variation,ICH Q6B 4.2,Specification
+mAb,Phase 1,Glycosylation Profile,"HILIC-UPLC, LC-MS",Monitor glycoform distribution,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 2,Glycosylation Profile,"HILIC-UPLC, LC-MS",Monitor glycoform distribution,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 3,Glycosylation Profile,"HILIC-UPLC, LC-MS",Monitor glycoform distribution,ICH Q6B 4.2,Specification
+mAb,Commercial,Glycosylation Profile,"HILIC-UPLC, LC-MS",Monitor glycoform distribution,ICH Q6B 4.2,Specification
+mAb,Phase 1,Deamidation,Peptide Mapping LC-MS,Detect stability-related PTM,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 2,Deamidation,Peptide Mapping LC-MS,Detect stability-related PTM,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 3,Deamidation,Peptide Mapping LC-MS,Detect stability-related PTM,ICH Q6B 4.2,Specification
+mAb,Commercial,Deamidation,Peptide Mapping LC-MS,Detect stability-related PTM,ICH Q6B 4.2,Specification
+mAb,Phase 1,Oxidation,Peptide Mapping LC-MS,Monitor oxidation hotspots,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 2,Oxidation,Peptide Mapping LC-MS,Monitor oxidation hotspots,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 3,Oxidation,Peptide Mapping LC-MS,Monitor oxidation hotspots,ICH Q6B 4.2,Specification
+mAb,Commercial,Oxidation,Peptide Mapping LC-MS,Monitor oxidation hotspots,ICH Q6B 4.2,Specification
+mAb,Phase 1,Fragmentation,SEC-UPLC,Detect low molecular weight species,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 2,Fragmentation,SEC-UPLC,Detect low molecular weight species,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 3,Fragmentation,SEC-UPLC,Detect low molecular weight species,ICH Q6B 4.2,Specification
+mAb,Commercial,Fragmentation,SEC-UPLC,Detect low molecular weight species,ICH Q6B 4.2,Specification
+mAb,Phase 1,Host Cell Protein,ELISA,Control process residual proteins,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 2,Host Cell Protein,ELISA,Control process residual proteins,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 3,Host Cell Protein,ELISA,Control process residual proteins,ICH Q6B 4.2,Specification
+mAb,Commercial,Host Cell Protein,ELISA,Control process residual proteins,ICH Q6B 4.2,Specification
+mAb,Phase 1,Host Cell DNA,qPCR,Control process residual DNA,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 2,Host Cell DNA,qPCR,Control process residual DNA,ICH Q6B 4.2,Trend Monitoring
+mAb,Phase 3,Host Cell DNA,qPCR,Control process residual DNA,ICH Q6B 4.2,Specification
+mAb,Commercial,Host Cell DNA,qPCR,Control process residual DNA,ICH Q6B 4.2,Specification
+mAb,Phase 1,Sterility,USP <71>,Ensure sterility of product,USP <71>,Specification
+mAb,Phase 1,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+mAb,Phase 1,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+mAb,Phase 1,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+mAb,Phase 2,Sterility,USP <71>,Ensure sterility of product,USP <71>,Specification
+mAb,Phase 2,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+mAb,Phase 2,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+mAb,Phase 2,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+mAb,Phase 3,Sterility,USP <71>,Ensure sterility of product,USP <71>,Specification
+mAb,Phase 3,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+mAb,Phase 3,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+mAb,Phase 3,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+mAb,Commercial,Sterility,USP <71>,Ensure sterility of product,USP <71>,Specification
+mAb,Commercial,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+mAb,Commercial,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+mAb,Commercial,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+Fusion Protein,Phase 1,Identity,"Peptide Mapping, ELISA, Intact Mass, N-terminal Sequencing",Confirm correct primary structure and sequence of fusion protein,ICH Q6B 4.1,Specification
+Fusion Protein,Phase 2,Identity,"Peptide Mapping, ELISA, Intact Mass, N-terminal Sequencing",Confirm correct primary structure and sequence of fusion protein,ICH Q6B 4.1,Specification
+Fusion Protein,Phase 3,Identity,"Peptide Mapping, ELISA, Intact Mass, N-terminal Sequencing",Confirm correct primary structure and sequence of fusion protein,ICH Q6B 4.1,Specification
+Fusion Protein,Commercial,Identity,"Peptide Mapping, ELISA, Intact Mass, N-terminal Sequencing",Confirm correct primary structure and sequence of fusion protein,ICH Q6B 4.1,Specification
+Fusion Protein,Phase 1,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis","Detect aggregates, fragments, purity profile",ICH Q6B 4.2,Specification
+Fusion Protein,Phase 2,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis","Detect aggregates, fragments, purity profile",ICH Q6B 4.2,Specification
+Fusion Protein,Phase 3,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis","Detect aggregates, fragments, purity profile",ICH Q6B 4.2,Specification
+Fusion Protein,Commercial,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis","Detect aggregates, fragments, purity profile",ICH Q6B 4.2,Specification
+Fusion Protein,Phase 1,Potency,"Binding Assay, Cell-Based Bioassay",Confirm biological activity of the fusion construct,ICH Q6B 4.3,Specification
+Fusion Protein,Phase 2,Potency,"Binding Assay, Cell-Based Bioassay",Confirm biological activity of the fusion construct,ICH Q6B 4.3,Specification
+Fusion Protein,Phase 3,Potency,"Binding Assay, Cell-Based Bioassay",Confirm biological activity of the fusion construct,ICH Q6B 4.3,Specification
+Fusion Protein,Commercial,Potency,"Binding Assay, Cell-Based Bioassay",Confirm biological activity of the fusion construct,ICH Q6B 4.3,Specification
+Fusion Protein,Phase 1,Glycosylation Profile,"HILIC-UPLC, LC-MS",Monitor glycoform heterogeneity for fusion protein function and stability,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 2,Glycosylation Profile,"HILIC-UPLC, LC-MS",Monitor glycoform heterogeneity for fusion protein function and stability,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 3,Glycosylation Profile,"HILIC-UPLC, LC-MS",Monitor glycoform heterogeneity for fusion protein function and stability,ICH Q6B 4.2,Specification
+Fusion Protein,Commercial,Glycosylation Profile,"HILIC-UPLC, LC-MS",Monitor glycoform heterogeneity for fusion protein function and stability,ICH Q6B 4.2,Specification
+Fusion Protein,Phase 1,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect charge heterogeneity due to post-translational modifications,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 2,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect charge heterogeneity due to post-translational modifications,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 3,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect charge heterogeneity due to post-translational modifications,ICH Q6B 4.2,Specification
+Fusion Protein,Commercial,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect charge heterogeneity due to post-translational modifications,ICH Q6B 4.2,Specification
+Fusion Protein,Phase 1,Oxidation,Peptide Mapping LC-MS,Monitor oxidation as stability-indicating degradation product,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 2,Oxidation,Peptide Mapping LC-MS,Monitor oxidation as stability-indicating degradation product,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 3,Oxidation,Peptide Mapping LC-MS,Monitor oxidation as stability-indicating degradation product,ICH Q6B 4.2,Specification
+Fusion Protein,Commercial,Oxidation,Peptide Mapping LC-MS,Monitor oxidation as stability-indicating degradation product,ICH Q6B 4.2,Specification
+Fusion Protein,Phase 1,Deamidation,Peptide Mapping LC-MS,Monitor deamidation as stability-indicating degradation product,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 2,Deamidation,Peptide Mapping LC-MS,Monitor deamidation as stability-indicating degradation product,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 3,Deamidation,Peptide Mapping LC-MS,Monitor deamidation as stability-indicating degradation product,ICH Q6B 4.2,Specification
+Fusion Protein,Commercial,Deamidation,Peptide Mapping LC-MS,Monitor deamidation as stability-indicating degradation product,ICH Q6B 4.2,Specification
+Fusion Protein,Phase 1,Fragmentation,SEC-UPLC,Monitor fragmentation as stability-indicating degradation product,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 2,Fragmentation,SEC-UPLC,Monitor fragmentation as stability-indicating degradation product,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 3,Fragmentation,SEC-UPLC,Monitor fragmentation as stability-indicating degradation product,ICH Q6B 4.2,Specification
+Fusion Protein,Commercial,Fragmentation,SEC-UPLC,Monitor fragmentation as stability-indicating degradation product,ICH Q6B 4.2,Specification
+Fusion Protein,Phase 1,Host Cell Protein,ELISA,Control process residual impurities,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 2,Host Cell Protein,ELISA,Control process residual impurities,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 3,Host Cell Protein,ELISA,Control process residual impurities,ICH Q6B 4.2,Specification
+Fusion Protein,Commercial,Host Cell Protein,ELISA,Control process residual impurities,ICH Q6B 4.2,Specification
+Fusion Protein,Phase 1,Host Cell DNA,qPCR,Control process residual impurities,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 2,Host Cell DNA,qPCR,Control process residual impurities,ICH Q6B 4.2,Trend Monitoring
+Fusion Protein,Phase 3,Host Cell DNA,qPCR,Control process residual impurities,ICH Q6B 4.2,Specification
+Fusion Protein,Commercial,Host Cell DNA,qPCR,Control process residual impurities,ICH Q6B 4.2,Specification
+Fusion Protein,Phase 1,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+Fusion Protein,Phase 1,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+Fusion Protein,Phase 1,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+Fusion Protein,Phase 1,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+Fusion Protein,Phase 2,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+Fusion Protein,Phase 2,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+Fusion Protein,Phase 2,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+Fusion Protein,Phase 2,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+Fusion Protein,Phase 3,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+Fusion Protein,Phase 3,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+Fusion Protein,Phase 3,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+Fusion Protein,Phase 3,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+Fusion Protein,Commercial,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+Fusion Protein,Commercial,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+Fusion Protein,Commercial,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+Fusion Protein,Commercial,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+AAV,Phase 1,Identity,"Capsid Protein Analysis (LC-MS), Genome Sequencing, Peptide Mapping",Confirm correct viral vector genome and capsid identity,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 2,Identity,"Capsid Protein Analysis (LC-MS), Genome Sequencing, Peptide Mapping",Confirm correct viral vector genome and capsid identity,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 3,Identity,"Capsid Protein Analysis (LC-MS), Genome Sequencing, Peptide Mapping",Confirm correct viral vector genome and capsid identity,FDA Gene Therapy CMC 2023,Specification
+AAV,Commercial,Identity,"Capsid Protein Analysis (LC-MS), Genome Sequencing, Peptide Mapping",Confirm correct viral vector genome and capsid identity,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 1,Purity,"SEC, SDS-PAGE, CE-SDS, Silver Staining",Assess product purity and protein impurities,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 2,Purity,"SEC, SDS-PAGE, CE-SDS, Silver Staining",Assess product purity and protein impurities,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 3,Purity,"SEC, SDS-PAGE, CE-SDS, Silver Staining",Assess product purity and protein impurities,FDA Gene Therapy CMC 2023,Specification
+AAV,Commercial,Purity,"SEC, SDS-PAGE, CE-SDS, Silver Staining",Assess product purity and protein impurities,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 1,Potency,"In Vitro Infectivity Assay, Transduction Assay, Reporter Gene Expression",Confirm biological activity and gene transfer function,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 2,Potency,"In Vitro Infectivity Assay, Transduction Assay, Reporter Gene Expression",Confirm biological activity and gene transfer function,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 3,Potency,"In Vitro Infectivity Assay, Transduction Assay, Reporter Gene Expression",Confirm biological activity and gene transfer function,FDA Gene Therapy CMC 2023,Specification
+AAV,Commercial,Potency,"In Vitro Infectivity Assay, Transduction Assay, Reporter Gene Expression",Confirm biological activity and gene transfer function,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 1,Empty Capsid Ratio,"AUC, Mass Photometry, TEM",Quantify proportion of empty versus full capsids,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 2,Empty Capsid Ratio,"AUC, Mass Photometry, TEM",Quantify proportion of empty versus full capsids,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 3,Empty Capsid Ratio,"AUC, Mass Photometry, TEM",Quantify proportion of empty versus full capsids,FDA Gene Therapy CMC 2023,Specification
+AAV,Commercial,Empty Capsid Ratio,"AUC, Mass Photometry, TEM",Quantify proportion of empty versus full capsids,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 1,Genome Copy Number,"qPCR, ddPCR",Quantify vector genome dose,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 2,Genome Copy Number,"qPCR, ddPCR",Quantify vector genome dose,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 3,Genome Copy Number,"qPCR, ddPCR",Quantify vector genome dose,FDA Gene Therapy CMC 2023,Specification
+AAV,Commercial,Genome Copy Number,"qPCR, ddPCR",Quantify vector genome dose,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 1,Genome Integrity,"Southern Blot, NGS",Assess integrity and structure of packaged genome,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 2,Genome Integrity,"Southern Blot, NGS",Assess integrity and structure of packaged genome,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 3,Genome Integrity,"Southern Blot, NGS",Assess integrity and structure of packaged genome,FDA Gene Therapy CMC 2023,Specification
+AAV,Commercial,Genome Integrity,"Southern Blot, NGS",Assess integrity and structure of packaged genome,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 1,Aggregates,"DLS, SEC",Detect aggregation of viral particles,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 2,Aggregates,"DLS, SEC",Detect aggregation of viral particles,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 3,Aggregates,"DLS, SEC",Detect aggregation of viral particles,FDA Gene Therapy CMC 2023,Specification
+AAV,Commercial,Aggregates,"DLS, SEC",Detect aggregation of viral particles,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 1,Host Cell Protein,ELISA,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 2,Host Cell Protein,ELISA,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 3,Host Cell Protein,ELISA,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Specification
+AAV,Commercial,Host Cell Protein,ELISA,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 1,Host Cell DNA,qPCR,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 2,Host Cell DNA,qPCR,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 3,Host Cell DNA,qPCR,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Specification
+AAV,Commercial,Host Cell DNA,qPCR,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 1,Residual Plasmid DNA,qPCR,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 2,Residual Plasmid DNA,qPCR,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Trend Monitoring
+AAV,Phase 3,Residual Plasmid DNA,qPCR,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Specification
+AAV,Commercial,Residual Plasmid DNA,qPCR,Control residual impurities from manufacturing process,FDA Gene Therapy CMC 2023,Specification
+AAV,Phase 1,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+AAV,Phase 1,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+AAV,Phase 1,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+AAV,Phase 1,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+AAV,Phase 2,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+AAV,Phase 2,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+AAV,Phase 2,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+AAV,Phase 2,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+AAV,Phase 3,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+AAV,Phase 3,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+AAV,Phase 3,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+AAV,Phase 3,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+AAV,Commercial,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+AAV,Commercial,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+AAV,Commercial,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+AAV,Commercial,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+CAR-T,Phase 1,Identity,"Flow Cytometry (Surface Markers), Transgene Detection (PCR), Cell Phenotyping",Confirm modified T-cell identity and transgene presence,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 2,Identity,"Flow Cytometry (Surface Markers), Transgene Detection (PCR), Cell Phenotyping",Confirm modified T-cell identity and transgene presence,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 3,Identity,"Flow Cytometry (Surface Markers), Transgene Detection (PCR), Cell Phenotyping",Confirm modified T-cell identity and transgene presence,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Commercial,Identity,"Flow Cytometry (Surface Markers), Transgene Detection (PCR), Cell Phenotyping",Confirm modified T-cell identity and transgene presence,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 1,Purity,Flow Cytometry (Cell Subset Characterization),Confirm cell population composition,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 2,Purity,Flow Cytometry (Cell Subset Characterization),Confirm cell population composition,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 3,Purity,Flow Cytometry (Cell Subset Characterization),Confirm cell population composition,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Commercial,Purity,Flow Cytometry (Cell Subset Characterization),Confirm cell population composition,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 1,Potency,"Cytotoxicity Assay, ELISPOT, Cytokine Release Assay",Confirm CAR-T functionality and target cell killing ability,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 2,Potency,"Cytotoxicity Assay, ELISPOT, Cytokine Release Assay",Confirm CAR-T functionality and target cell killing ability,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 3,Potency,"Cytotoxicity Assay, ELISPOT, Cytokine Release Assay",Confirm CAR-T functionality and target cell killing ability,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Commercial,Potency,"Cytotoxicity Assay, ELISPOT, Cytokine Release Assay",Confirm CAR-T functionality and target cell killing ability,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 1,Viability,"Flow Cytometry, Trypan Blue Exclusion",Confirm sufficient viable cells for patient administration,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 2,Viability,"Flow Cytometry, Trypan Blue Exclusion",Confirm sufficient viable cells for patient administration,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 3,Viability,"Flow Cytometry, Trypan Blue Exclusion",Confirm sufficient viable cells for patient administration,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Commercial,Viability,"Flow Cytometry, Trypan Blue Exclusion",Confirm sufficient viable cells for patient administration,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 1,Transduction Efficiency,"qPCR, Flow Cytometry",Confirm gene modification efficiency of T-cells,FDA Cell Therapy Guidance 2023,Trend Monitoring
+CAR-T,Phase 2,Transduction Efficiency,"qPCR, Flow Cytometry",Confirm gene modification efficiency of T-cells,FDA Cell Therapy Guidance 2023,Trend Monitoring
+CAR-T,Phase 3,Transduction Efficiency,"qPCR, Flow Cytometry",Confirm gene modification efficiency of T-cells,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Commercial,Transduction Efficiency,"qPCR, Flow Cytometry",Confirm gene modification efficiency of T-cells,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 1,Replication Competent Virus,qPCR,Ensure absence of replication competent retrovirus or lentivirus,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 2,Replication Competent Virus,qPCR,Ensure absence of replication competent retrovirus or lentivirus,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 3,Replication Competent Virus,qPCR,Ensure absence of replication competent retrovirus or lentivirus,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Commercial,Replication Competent Virus,qPCR,Ensure absence of replication competent retrovirus or lentivirus,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 1,Cytokine Profile,Multiplex Cytokine Assay,Characterize cytokine secretion profile for safety and efficacy,FDA Cell Therapy Guidance 2023,Trend Monitoring
+CAR-T,Phase 2,Cytokine Profile,Multiplex Cytokine Assay,Characterize cytokine secretion profile for safety and efficacy,FDA Cell Therapy Guidance 2023,Trend Monitoring
+CAR-T,Phase 3,Cytokine Profile,Multiplex Cytokine Assay,Characterize cytokine secretion profile for safety and efficacy,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Commercial,Cytokine Profile,Multiplex Cytokine Assay,Characterize cytokine secretion profile for safety and efficacy,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 1,Host Cell Protein,ELISA,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Trend Monitoring
+CAR-T,Phase 2,Host Cell Protein,ELISA,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Trend Monitoring
+CAR-T,Phase 3,Host Cell Protein,ELISA,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Commercial,Host Cell Protein,ELISA,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 1,Host Cell DNA,qPCR,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Trend Monitoring
+CAR-T,Phase 2,Host Cell DNA,qPCR,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Trend Monitoring
+CAR-T,Phase 3,Host Cell DNA,qPCR,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Commercial,Host Cell DNA,qPCR,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 1,Vector Residuals,qPCR,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Trend Monitoring
+CAR-T,Phase 2,Vector Residuals,qPCR,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Trend Monitoring
+CAR-T,Phase 3,Vector Residuals,qPCR,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Commercial,Vector Residuals,qPCR,Control residuals from manufacturing process,FDA Cell Therapy Guidance 2023,Specification
+CAR-T,Phase 1,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+CAR-T,Phase 1,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+CAR-T,Phase 1,Mycoplasma,Mycoplasma PCR,Ensure absence of mycoplasma contamination,USP <63>,Specification
+CAR-T,Phase 1,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+CAR-T,Phase 1,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+CAR-T,Phase 2,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+CAR-T,Phase 2,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+CAR-T,Phase 2,Mycoplasma,Mycoplasma PCR,Ensure absence of mycoplasma contamination,USP <63>,Specification
+CAR-T,Phase 2,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+CAR-T,Phase 2,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+CAR-T,Phase 3,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+CAR-T,Phase 3,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+CAR-T,Phase 3,Mycoplasma,Mycoplasma PCR,Ensure absence of mycoplasma contamination,USP <63>,Specification
+CAR-T,Phase 3,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+CAR-T,Phase 3,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+CAR-T,Commercial,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+CAR-T,Commercial,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+CAR-T,Commercial,Mycoplasma,Mycoplasma PCR,Ensure absence of mycoplasma contamination,USP <63>,Specification
+CAR-T,Commercial,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+CAR-T,Commercial,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+mRNA,Phase 1,Identity,"Capillary Electrophoresis, HPLC, LC-MS, Sequencing",Confirm mRNA sequence and integrity,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 2,Identity,"Capillary Electrophoresis, HPLC, LC-MS, Sequencing",Confirm mRNA sequence and integrity,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 3,Identity,"Capillary Electrophoresis, HPLC, LC-MS, Sequencing",Confirm mRNA sequence and integrity,EMA mRNA Guidance 2023,Specification
+mRNA,Commercial,Identity,"Capillary Electrophoresis, HPLC, LC-MS, Sequencing",Confirm mRNA sequence and integrity,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 1,Purity,"HPLC, Capillary Electrophoresis",Assess purity of mRNA transcript,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 2,Purity,"HPLC, Capillary Electrophoresis",Assess purity of mRNA transcript,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 3,Purity,"HPLC, Capillary Electrophoresis",Assess purity of mRNA transcript,EMA mRNA Guidance 2023,Specification
+mRNA,Commercial,Purity,"HPLC, Capillary Electrophoresis",Assess purity of mRNA transcript,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 1,Potency,"In Vitro Translation Assay, Reporter Protein Expression",Confirm translation efficiency and potency,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 2,Potency,"In Vitro Translation Assay, Reporter Protein Expression",Confirm translation efficiency and potency,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 3,Potency,"In Vitro Translation Assay, Reporter Protein Expression",Confirm translation efficiency and potency,EMA mRNA Guidance 2023,Specification
+mRNA,Commercial,Potency,"In Vitro Translation Assay, Reporter Protein Expression",Confirm translation efficiency and potency,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 1,Capping Efficiency,"LC-MS, HPLC",Confirm correct capping of mRNA for translation competency,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 2,Capping Efficiency,"LC-MS, HPLC",Confirm correct capping of mRNA for translation competency,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 3,Capping Efficiency,"LC-MS, HPLC",Confirm correct capping of mRNA for translation competency,EMA mRNA Guidance 2023,Specification
+mRNA,Commercial,Capping Efficiency,"LC-MS, HPLC",Confirm correct capping of mRNA for translation competency,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 1,Poly(A) Tail Length,"LC-MS, PCR-based Tail Length Assay",Monitor tail length critical for stability and translation,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 2,Poly(A) Tail Length,"LC-MS, PCR-based Tail Length Assay",Monitor tail length critical for stability and translation,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 3,Poly(A) Tail Length,"LC-MS, PCR-based Tail Length Assay",Monitor tail length critical for stability and translation,EMA mRNA Guidance 2023,Specification
+mRNA,Commercial,Poly(A) Tail Length,"LC-MS, PCR-based Tail Length Assay",Monitor tail length critical for stability and translation,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 1,Double-Stranded RNA,"ELISA, HPLC",Control innate immune activation risk due to dsRNA impurities,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 2,Double-Stranded RNA,"ELISA, HPLC",Control innate immune activation risk due to dsRNA impurities,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 3,Double-Stranded RNA,"ELISA, HPLC",Control innate immune activation risk due to dsRNA impurities,EMA mRNA Guidance 2023,Specification
+mRNA,Commercial,Double-Stranded RNA,"ELISA, HPLC",Control innate immune activation risk due to dsRNA impurities,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 1,Residual DNA Template,qPCR,Confirm removal of DNA template post-IVT reaction,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 2,Residual DNA Template,qPCR,Confirm removal of DNA template post-IVT reaction,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 3,Residual DNA Template,qPCR,Confirm removal of DNA template post-IVT reaction,EMA mRNA Guidance 2023,Specification
+mRNA,Commercial,Residual DNA Template,qPCR,Confirm removal of DNA template post-IVT reaction,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 1,Residual Enzymes,Activity Assays or ELISA,Control manufacturing residuals,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 2,Residual Enzymes,Activity Assays or ELISA,Control manufacturing residuals,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 3,Residual Enzymes,Activity Assays or ELISA,Control manufacturing residuals,EMA mRNA Guidance 2023,Specification
+mRNA,Commercial,Residual Enzymes,Activity Assays or ELISA,Control manufacturing residuals,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 1,Residual Reagents,HPLC,Control manufacturing residuals,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 2,Residual Reagents,HPLC,Control manufacturing residuals,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 3,Residual Reagents,HPLC,Control manufacturing residuals,EMA mRNA Guidance 2023,Specification
+mRNA,Commercial,Residual Reagents,HPLC,Control manufacturing residuals,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 1,Residual Solvents,GC-MS,Control manufacturing residuals,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 2,Residual Solvents,GC-MS,Control manufacturing residuals,EMA mRNA Guidance 2023,Trend Monitoring
+mRNA,Phase 3,Residual Solvents,GC-MS,Control manufacturing residuals,EMA mRNA Guidance 2023,Specification
+mRNA,Commercial,Residual Solvents,GC-MS,Control manufacturing residuals,EMA mRNA Guidance 2023,Specification
+mRNA,Phase 1,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+mRNA,Phase 1,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+mRNA,Phase 1,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+mRNA,Phase 1,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+mRNA,Phase 1,Osmolality,Osmometer,Confirm formulation osmolality,ICH Q6B,Specification
+mRNA,Phase 2,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+mRNA,Phase 2,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+mRNA,Phase 2,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+mRNA,Phase 2,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+mRNA,Phase 2,Osmolality,Osmometer,Confirm formulation osmolality,ICH Q6B,Specification
+mRNA,Phase 3,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+mRNA,Phase 3,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+mRNA,Phase 3,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+mRNA,Phase 3,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+mRNA,Phase 3,Osmolality,Osmometer,Confirm formulation osmolality,ICH Q6B,Specification
+mRNA,Commercial,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+mRNA,Commercial,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+mRNA,Commercial,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+mRNA,Commercial,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+mRNA,Commercial,Osmolality,Osmometer,Confirm formulation osmolality,ICH Q6B,Specification
+ADC,Phase 1,Identity,"Peptide Mapping, LC-MS, DAR Analysis",Confirm correct antibody sequence and drug conjugation structure,"ICH Q6B, FDA ADC Guidance",Specification
+ADC,Phase 2,Identity,"Peptide Mapping, LC-MS, DAR Analysis",Confirm correct antibody sequence and drug conjugation structure,"ICH Q6B, FDA ADC Guidance",Specification
+ADC,Phase 3,Identity,"Peptide Mapping, LC-MS, DAR Analysis",Confirm correct antibody sequence and drug conjugation structure,"ICH Q6B, FDA ADC Guidance",Specification
+ADC,Commercial,Identity,"Peptide Mapping, LC-MS, DAR Analysis",Confirm correct antibody sequence and drug conjugation structure,"ICH Q6B, FDA ADC Guidance",Specification
+ADC,Phase 1,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis",Assess purity and aggregation profile of ADC,ICH Q6B,Specification
+ADC,Phase 2,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis",Assess purity and aggregation profile of ADC,ICH Q6B,Specification
+ADC,Phase 3,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis",Assess purity and aggregation profile of ADC,ICH Q6B,Specification
+ADC,Commercial,Purity,"SEC-UPLC, CE-SDS, Capillary Electrophoresis",Assess purity and aggregation profile of ADC,ICH Q6B,Specification
+ADC,Phase 1,Potency,"Binding Assay, Cytotoxicity Assay (In vitro bioassay)",Confirm binding and cytotoxic function of ADC,"ICH Q6B, FDA ADC Guidance",Specification
+ADC,Phase 2,Potency,"Binding Assay, Cytotoxicity Assay (In vitro bioassay)",Confirm binding and cytotoxic function of ADC,"ICH Q6B, FDA ADC Guidance",Specification
+ADC,Phase 3,Potency,"Binding Assay, Cytotoxicity Assay (In vitro bioassay)",Confirm binding and cytotoxic function of ADC,"ICH Q6B, FDA ADC Guidance",Specification
+ADC,Commercial,Potency,"Binding Assay, Cytotoxicity Assay (In vitro bioassay)",Confirm binding and cytotoxic function of ADC,"ICH Q6B, FDA ADC Guidance",Specification
+ADC,Phase 1,DAR (Drug-Antibody Ratio),"LC-MS, UV Spectroscopy, HIC-HPLC",Quantify average number of drug molecules conjugated per antibody,FDA ADC Guidance,Trend Monitoring
+ADC,Phase 2,DAR (Drug-Antibody Ratio),"LC-MS, UV Spectroscopy, HIC-HPLC",Quantify average number of drug molecules conjugated per antibody,FDA ADC Guidance,Trend Monitoring
+ADC,Phase 3,DAR (Drug-Antibody Ratio),"LC-MS, UV Spectroscopy, HIC-HPLC",Quantify average number of drug molecules conjugated per antibody,FDA ADC Guidance,Specification
+ADC,Commercial,DAR (Drug-Antibody Ratio),"LC-MS, UV Spectroscopy, HIC-HPLC",Quantify average number of drug molecules conjugated per antibody,FDA ADC Guidance,Specification
+ADC,Phase 1,Free Drug,"HPLC, LC-MS",Quantify unbound cytotoxic drug,FDA ADC Guidance,Specification
+ADC,Phase 2,Free Drug,"HPLC, LC-MS",Quantify unbound cytotoxic drug,FDA ADC Guidance,Specification
+ADC,Phase 3,Free Drug,"HPLC, LC-MS",Quantify unbound cytotoxic drug,FDA ADC Guidance,Specification
+ADC,Commercial,Free Drug,"HPLC, LC-MS",Quantify unbound cytotoxic drug,FDA ADC Guidance,Specification
+ADC,Phase 1,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect isoform heterogeneity due to conjugation,ICH Q6B,Trend Monitoring
+ADC,Phase 2,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect isoform heterogeneity due to conjugation,ICH Q6B,Trend Monitoring
+ADC,Phase 3,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect isoform heterogeneity due to conjugation,ICH Q6B,Specification
+ADC,Commercial,Charge Variants,"icIEF, Ion Exchange Chromatography",Detect isoform heterogeneity due to conjugation,ICH Q6B,Specification
+ADC,Phase 1,Glycosylation Profile,"HILIC-UPLC, LC-MS",Characterize glycan profile on antibody,ICH Q6B,Trend Monitoring
+ADC,Phase 2,Glycosylation Profile,"HILIC-UPLC, LC-MS",Characterize glycan profile on antibody,ICH Q6B,Trend Monitoring
+ADC,Phase 3,Glycosylation Profile,"HILIC-UPLC, LC-MS",Characterize glycan profile on antibody,ICH Q6B,Specification
+ADC,Commercial,Glycosylation Profile,"HILIC-UPLC, LC-MS",Characterize glycan profile on antibody,ICH Q6B,Specification
+ADC,Phase 1,Deamidation,Peptide Mapping LC-MS,Detect deamidation as degradation product,ICH Q6B,Trend Monitoring
+ADC,Phase 2,Deamidation,Peptide Mapping LC-MS,Detect deamidation as degradation product,ICH Q6B,Trend Monitoring
+ADC,Phase 3,Deamidation,Peptide Mapping LC-MS,Detect deamidation as degradation product,ICH Q6B,Specification
+ADC,Commercial,Deamidation,Peptide Mapping LC-MS,Detect deamidation as degradation product,ICH Q6B,Specification
+ADC,Phase 1,Oxidation,Peptide Mapping LC-MS,Detect oxidation as degradation product,ICH Q6B,Trend Monitoring
+ADC,Phase 2,Oxidation,Peptide Mapping LC-MS,Detect oxidation as degradation product,ICH Q6B,Trend Monitoring
+ADC,Phase 3,Oxidation,Peptide Mapping LC-MS,Detect oxidation as degradation product,ICH Q6B,Specification
+ADC,Commercial,Oxidation,Peptide Mapping LC-MS,Detect oxidation as degradation product,ICH Q6B,Specification
+ADC,Phase 1,Fragmentation,SEC-UPLC,Detect fragmentation as degradation product,ICH Q6B,Trend Monitoring
+ADC,Phase 2,Fragmentation,SEC-UPLC,Detect fragmentation as degradation product,ICH Q6B,Trend Monitoring
+ADC,Phase 3,Fragmentation,SEC-UPLC,Detect fragmentation as degradation product,ICH Q6B,Specification
+ADC,Commercial,Fragmentation,SEC-UPLC,Detect fragmentation as degradation product,ICH Q6B,Specification
+ADC,Phase 1,Host Cell Protein,ELISA,Control process-related impurities,FDA ADC Guidance,Trend Monitoring
+ADC,Phase 2,Host Cell Protein,ELISA,Control process-related impurities,FDA ADC Guidance,Trend Monitoring
+ADC,Phase 3,Host Cell Protein,ELISA,Control process-related impurities,FDA ADC Guidance,Specification
+ADC,Commercial,Host Cell Protein,ELISA,Control process-related impurities,FDA ADC Guidance,Specification
+ADC,Phase 1,Host Cell DNA,qPCR,Control process-related impurities,FDA ADC Guidance,Trend Monitoring
+ADC,Phase 2,Host Cell DNA,qPCR,Control process-related impurities,FDA ADC Guidance,Trend Monitoring
+ADC,Phase 3,Host Cell DNA,qPCR,Control process-related impurities,FDA ADC Guidance,Specification
+ADC,Commercial,Host Cell DNA,qPCR,Control process-related impurities,FDA ADC Guidance,Specification
+ADC,Phase 1,Linker-Drug Impurities,"HPLC, LC-MS",Control process-related impurities,FDA ADC Guidance,Trend Monitoring
+ADC,Phase 2,Linker-Drug Impurities,"HPLC, LC-MS",Control process-related impurities,FDA ADC Guidance,Trend Monitoring
+ADC,Phase 3,Linker-Drug Impurities,"HPLC, LC-MS",Control process-related impurities,FDA ADC Guidance,Specification
+ADC,Commercial,Linker-Drug Impurities,"HPLC, LC-MS",Control process-related impurities,FDA ADC Guidance,Specification
+ADC,Phase 1,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+ADC,Phase 1,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+ADC,Phase 1,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+ADC,Phase 1,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+ADC,Phase 2,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+ADC,Phase 2,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+ADC,Phase 2,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+ADC,Phase 2,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+ADC,Phase 3,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+ADC,Phase 3,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+ADC,Phase 3,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+ADC,Phase 3,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification
+ADC,Commercial,Sterility,USP <71>,Ensure product sterility,USP <71>,Specification
+ADC,Commercial,Endotoxin,LAL USP <85>,Control pyrogen risk,USP <85>,Specification
+ADC,Commercial,Appearance,Visual Inspection,"Appearance check for visible particles, color",ICH Q6B,Specification
+ADC,Commercial,pH,pH Meter,Confirm formulation pH,ICH Q6B,Specification

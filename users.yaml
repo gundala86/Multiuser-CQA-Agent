@@ -1,0 +1,8 @@
+
+users:
+  user1:
+    name: John Biotech
+    password: demo123
+  user2:
+    name: Jane Regulatory
+    password: demo456
