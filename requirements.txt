@@ -1,4 +1,6 @@
+
 pandas==1.5.3
 streamlit==1.25.0
 pdfplumber==0.10.3
 pyyaml==6.0
+pillow==9.5.0
